@@ -4,6 +4,7 @@ Course URL: <https://www.udemy.com/course/ios-13-app-development-bootcamp>
 
 ## Table of contents
 
-| Project   | Topic                                   |
-| --------- | --------------------------------------- |
-| I Am Rich | Xcode Storyboards and Interface Builder |
+| Project   | Topic                                                         |
+| --------- | ------------------------------------------------------------- |
+| I Am Rich | Xcode Storyboards and Interface Builder                       |
+| Dice      | Swift Programming Basics - Collections, Constants & Variables |
