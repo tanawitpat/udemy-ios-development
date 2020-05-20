@@ -10,3 +10,4 @@ Course URL: <https://www.udemy.com/course/ios-13-app-development-bootcamp>
 | Dice        | Swift Programming Basics - Collections, Constants & Variables |
 | Auto Layout | Auto Layout and Responsive UIs                                |
 | Xylophone   | Functions with Inputs and Type Inference                      |
+| Egg Timer   | Control Flow and Optionals                                    |
